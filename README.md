@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">hey there, i'm ben</h1>
+<h3 align="center">i'm interested in discord tools</h3>
 
-<!--
-**lanadawlrey/lanadawlrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- i'm currently working on [Discord MultiTool](https://github.com/lanadawlrey/DiscordMultiTool.git)
 
-Here are some ideas to get you started:
+- i'm currently teaching myself **python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- contact me through **discord, same as username**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+
