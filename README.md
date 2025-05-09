@@ -2,9 +2,6 @@
 <h1 align="center">lanadawlrey</h1>
 <a href="https://github.com/lanadawlrey"></a>
 
-i'm interested in Discord tools, and i'm currently working on [Discord MultiTool](https://github.com/lanadawlrey/DiscordMultiTool.git).
-
-Contact me through my discord, which is the same as my username.
 
 ## languages:
 
